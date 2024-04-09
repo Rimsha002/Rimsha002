@@ -63,8 +63,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rimsha002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rimsha002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <br>
   <img src="https://streak-stats.demolab.com?user=Rimsha002&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rimsha002&radius=16&theme=elegant&area=true&order=5&line=00FF00&area_color=d3d3d3&hide_border=true&hide_title=false" height="200" margin="4rem" alt="activity-graph graph"  />
+  <br>
   <img src="https://github-profile-trophy.vercel.app?username=Rimsha002&theme=onestar&column=6&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
  
 </div>
