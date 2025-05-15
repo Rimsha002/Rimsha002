@@ -8,6 +8,9 @@
   <img src="https://profile-counter.glitch.me/Rimsha002/count.svg?"  />
 </div>
 
+###
+
+<img align="right" height="450" src="https://media.giphy.com/media/dopFZQOlSQSE0ir2Dm/giphy.gif"  />
 ---
 
   ### 📍 About Me
@@ -22,15 +25,15 @@
 
 ---
 
-### 🛠️ Skills
+### 🚀 Technical Skills
 
-| Category           | Tools & Technologies                                                                 |
-|--------------------|--------------------------------------------------------------------------------------|
-| Languages          | HTML, CSS, JavaScript, C, C++, Python, Java, SQL                                     |
-| Frameworks         | Bootstrap, Tailwind, React.js                                                        |
-| Tools              | VS Code, NetBeans, IntelliJ, Android Studio, Jupyter Notebook, Git/GitHub, JIRA      |
-| OS                 | Ubuntu, Windows                                                                      |
-| Soft Skills        | Problem-Solving, Teamwork, Communication, Leadership                                 |
+| Category        | Skills                                                                                          |
+|----------------|--------------------------------------------------------------------------------------------------|
+| **Languages**  | ![HTML](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Frameworks** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Tools**      | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
+| **OS**         | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
+
 
 ---
 
@@ -70,9 +73,10 @@
 ### 🔥 Streak & Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimsha002&theme=react" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rimsha002&theme=react-dark" alt="Contribution Graph" />
+
+<img src="https://streak-stats.demolab.com?user=Rimsha002&theme=react" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rimsha002&theme=react-dark" alt="Contribution Graph" />
+
 </div>
 
 ---
