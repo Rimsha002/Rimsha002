@@ -1,8 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Rimsha Majeed <br> <h3  align="center"> <em> Software Engineer | WEb & App Developer </em> </h3> </h1>
+<h2 align="center">Hi there 👋, I'm Rimsha Majeed <br> <span style="font-size:14px; " ><em> Software Engineer | WEb & App Developer </em></span> </h2>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rimsha002/count.svg?"  />
 </div>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -32,7 +33,7 @@
 </div>
 
 
-<img align="right" height="450" src="https://media.giphy.com/media/dopFZQOlSQSE0ir2Dm/giphy.gif"  />
+<img align="right" height="440" src="https://media.giphy.com/media/dopFZQOlSQSE0ir2Dm/giphy.gif"  />
 
 ---
 
@@ -103,13 +104,21 @@
 
 ---
 
-📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rimsha-majeed-84a087202)  
-  📧 rimshamajeed2002@gmail.com
-🌐 [GitHub Profile](https://github.com/Rimsha002)
----
-<h3 style="theme=gruvbox_light; font-style:italic; align:center"> <em>
-  "Passion, persistence, and problem-solving define my developer journey." </em>
-</h3>
+### 📫 Connect with Me
+  <a href="https://linkedin.com/in/rimsha-majeed-84a087202" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0000FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://rimshamajeed2002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://whatsapp.com/Rimsha Majeed" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D360&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
 
+---
+<h3 align:"center">
+  <div align="center"><em>
+  "Passion, persistence, and problem-solving define my developer journey." </em>
+  </div>
+</h3>
 
