@@ -1,4 +1,5 @@
-<h2 align="center">Hello World! 👋! I'm Rimsha Majeed <br>(a passionate Web Developer)</h2>
+<h1 align="center">Hi there 👋, I'm Rimsha Majeed</h1>
+<h3 align="center"> Software Engineer | 💻 Web Developer | </h3>
 
 
 ###
@@ -7,70 +8,89 @@
   <img src="https://profile-counter.glitch.me/Rimsha002/count.svg?"  />
 </div>
 
+---
 
+  ### 📍 About Me
 
-###
+- 🎓 Currently pursuing **Bachelor in Information Technology** at PUCIT.
+- 💼 Former **Frontend Web Development Intern** at Developers Denn.
+- 🌱 Continuously learning modern tech – from responsive UIs to data science and ML.
+- 🛠️ Passionate about building intuitive, user-friendly interfaces and solving real-world problems through code.
+- 🧠 Enthusiastic about self-learning , and collaborative team projects.
+- ☕ Debugging code with coffee, curiosity, and a touch of CSS magic.
+- 🎯 Focused on mastering the **MERN stack**, while also exploring the possibilities of **AI/ML** in web development.
 
-<img align="right" height="450" src="https://media.giphy.com/media/dopFZQOlSQSE0ir2Dm/giphy.gif"  />
+---
 
-###
+### 🛠️ Skills
+
+| Category           | Tools & Technologies                                                                 |
+|--------------------|--------------------------------------------------------------------------------------|
+| Languages          | HTML, CSS, JavaScript, C, C++, Python, Java, SQL                                     |
+| Frameworks         | Bootstrap, Tailwind, React.js                                                        |
+| Tools              | VS Code, NetBeans, IntelliJ, Android Studio, Jupyter Notebook, Git/GitHub, JIRA      |
+| OS                 | Ubuntu, Windows                                                                      |
+| Soft Skills        | Problem-Solving, Teamwork, Communication, Leadership                                 |
+
+---
+
+### 📂 Projects
+
+- 🔥 **BMR Calculator**  
+  Developed an interactive web app for BMR calculation with personalized meal suggestions using React.
+
+- 💼 **Practice Portfolio**  
+  A responsive portfolio site with light/dark mode using HTML, CSS, and JavaScript.
+
+- 📘 **3D Portfolio Design**  
+  Built a book-themed 3D interactive portfolio with creative CSS transformations.
+
+- 🛒 **Amazon Clone**  
+  Fully functional e-commerce site inspired by Amazon, responsive and feature-rich.
+
+---
+
+### 🎓 Certifications
+
+- ✅ **Web Development Course (3 months)**  
+- 📊 **The Data Science Course: Complete Bootcamp**   
+- 🧠 **Complete Data Science Training** – Python, ML, DL, Statistics
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rimsha002&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsha002&layout=compact&theme=react" alt="Top Languages" />
 </div>
 
-###
+---
+
+### 🔥 Streak & Contribution Graph
 
 <div align="center">
-  <a href="https://linkedin.com/in/rimsha-majeed-84a087202" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0000FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://rimshamajeed2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://whatsapp.com/Rimsha Majeed" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D360&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimsha002&theme=react" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rimsha002&theme=react-dark" alt="Contribution Graph" />
 </div>
 
+---
 
-###
+### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rimsha002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rimsha002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Rimsha002&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rimsha002&radius=16&theme=elegant&area=true&order=5&line=00FF00&area_color=d3d3d3&hide_border=true&hide_title=false" height="200" margin="4rem" alt="activity-graph graph"  />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app?username=Rimsha002&theme=onestar&column=6&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
- 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rimsha002&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
-###
+---
 
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rimsha-majeed-84a087202)  
+📧 rimshamajeed2002@gmail.com
+🌐 [GitHub Profile](https://github.com/Rimsha002)
+
+---
+
+> *"Passion, persistence, and problem-solving define my developer journey."*
