@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Rimsha Majeed <br> <span style="font-size:14px; " ><em> Software Engineer | WEb & App Developer </em></span> </h2>
+<h2 align="center">Hi there 👋, I'm Rimsha Majeed <br> <span style="font-size:14px; " ><em> Software Engineer | Web & App Developer </em></span> </h2>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rimsha002/count.svg?"  />
