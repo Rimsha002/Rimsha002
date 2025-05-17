@@ -44,7 +44,7 @@
 - 🛠️ Passionate about building intuitive, user-friendly interfaces and solving real-world problems through code.
 - 🧠 Enthusiastic about self-learning , and collaborative team projects.
 - ☕ Debugging code with coffee, curiosity, and a touch of CSS magic.
-- 🎯 Focused on mastering the **MERN stack**, while also exploring the possibilities of **AI/ML** in web development.
+- 🎯 Focused on mastering the **MERN stack**, while also exploring the possibilities of **AI/ML**.
 
 ---
 ### 🚀 Technical Skills
@@ -72,9 +72,9 @@
 ---
 
 ### 🎓 Certifications
-- ✅ **Web Development Course (3 months)**  
+- ✅ **Web Development Course**  
 - 📊 **The Data Science Course: Complete Bootcamp**   
-- 🧠 **Complete Data Science Training** – Python, ML, DL, Statistics
+- 🧠 **Data Science Training** – Python, ML, DL, Statistics
 ---
 
 
