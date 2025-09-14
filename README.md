@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Rimsha Majeed <br> <span style="font-size:14px; " ><em> Software Engineer | Web & App Developer </em></span> </h2>
+<h2 align="center">👋 I'm Rimsha Majeed <br> <span style="font-size:14px; " > <br> Software Engineer  |  Aspiring Developer  |  Exploring <em>AI & Machine Learning</em> </span> </h2>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rimsha002/count.svg?"  />
@@ -37,44 +37,53 @@
 
 ---
 
-### 📍 About Me
-- 🎓 Currently pursuing **Bachelor in Information Technology** at PUCIT.
-- 💼 Former **Frontend Web Development Intern** at Developers Denn.
-- 🌱 Continuously learning modern tech – from responsive UIs to data science and ML.
-- 🛠️ Passionate about building intuitive, user-friendly interfaces and solving real-world problems through code.
-- 🧠 Enthusiastic about self-learning , and collaborative team projects.
-- ☕ Debugging code with coffee, curiosity, and a touch of CSS magic.
-- 🎯 Focused on mastering the **MERN stack**, while also exploring the possibilities of **AI/ML**.
+### About Me
+- Pursuing Bachelor in Information Technology at PUCIT.
+- Former Frontend Web Development Intern at Developers Denn.
+- Continuously learning modern technologies, from responsive UIs to data science and machine learning.
+- Passionate about building user-friendly applications and solving real-world problems through code.
+- Experienced in collaborative team projects with problem-solving and debugging skills.
+- Currently focused on mastering the MERN stack while mainly exploring Artificial Intelligence and Machine Learning.
 
 ---
-### 🚀 Technical Skills
+### Technical Skills
 | Category        | Skills                                                                                          |
 |----------------|--------------------------------------------------------------------------------------------------|
-| **Languages**  | ![HTML](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Languages**  | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 | **Frameworks** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | **Tools**      | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
 | **OS**         | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 
 ---
-### 📂 Projects
-- 🔥 **BMR Calculator**  
-  Developed an interactive web app for BMR calculation with personalized meal suggestions using React.
 
-- 💼 **Practice Portfolio**  
-  A responsive portfolio site with light/dark mode using HTML, CSS, and JavaScript.
+## 📂 Projects
+### **AI / ML**  
+ - Face Emotion Detection System: https://github.com/Rimsha002/Face-Emotion-Detection
 
-- 📘 **3D Portfolio Design**  
-  Built a book-themed 3D interactive portfolio with creative CSS transformations.
+### **Development**  
+- Practice Portfolio: https://github.com/Rimsha002/Practice-Portfolio
+- My Portfolio: https://rimsha002.github.io/My-Portfolio/
+- BMR Calculator: https://github.com/Rimsha002/BMR-Calculator
+- Amazon Clone: https://rimsha002.github.io/Amazon-Clone/
+- Food Recipes: https://rimsha002.github.io/Mern-Stack-Practice-Projects/Food_Recipy_Website/index.html
+- Blog Website: https://rimsha002.github.io/Practice-Blog-/
 
-- 🛒 **Amazon Clone**  
-  Fully functional e-commerce site inspired by Amazon, responsive and feature-rich.
-  
+### **DSA**
+- https://github.com/Rimsha002/BS-Information-Technology/tree/main/Semester_04/DSA
+
+### **Object Oriented Programming**
+ - Hospital Management System: https://github.com/Rimsha002/Hospital-Management-System
+ - https://github.com/Rimsha002/BS-Information-Technology/tree/main/Semester_03/OOP
+
+### **Pogramming Fundamental**  
+- https://github.com/Rimsha002/BS-Information-Technology/tree/main/Semester_02/PF/Banking%20Project/Banking%20Project
+
 ---
 
 ### 🎓 Certifications
-- ✅ **Web Development Course**  
-- 📊 **The Data Science Course: Complete Bootcamp**   
-- 🧠 **Data Science Training** – Python, ML, DL, Statistics
+- **Web Development Course**  
+- **The Data Science Course: Complete Bootcamp**   
+- **Data Science Training** – Python, ML, DL, Statistics
 ---
 
 
@@ -86,7 +95,7 @@
 
 ---
 
-### 🔥 Streak & Contribution Graph
+###  Streak & Contribution Graph
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Rimsha002&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
   <br>
@@ -96,7 +105,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+###  GitHub Trophies
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=Rimsha002&theme=algolia&no-frame=true&row=1&column=6" height="160" width="700" />
 </p>
@@ -104,7 +113,7 @@
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
   <a href="https://linkedin.com/in/rimsha-majeed-84a087202" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0000FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
